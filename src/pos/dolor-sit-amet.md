@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dolor Sit Amet
+title: Lorem Ipsum
 ---
 Praesent ac vehicula leo. Maecenas quis rutrum arcu. Cras justo risus, euismod a augue sed, vestibulum ultrices justo. Nam ante mi, facilisis at odio ut, fringilla consequat est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sit amet metus porta, interdum massa et, aliquam magna. Donec eros dolor, facilisis sit amet lorem ut, interdum hendrerit ante. Pellentesque ut enim hendrerit, congue magna et, placerat ex. Donec malesuada nibh vitae lacus posuere, at molestie metus auctor. Cras ornare molestie purus, id consequat nisl. Aenean eget pellentesque ligula, id varius nunc.
 
