@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fusce eleifend rhoncus ligula, quis.
-category:
+tags:
   - lorem
 ---
 - - -

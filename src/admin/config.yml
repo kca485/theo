@@ -17,4 +17,4 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Category", name: "category", widget: "select", options: ["lorem", "ipsum"], multiple: true, min: 1}
+      - {label: "Tags", name: "tags", widget: "select", options: ["lorem", "ipsum"], multiple: true, min: 1}

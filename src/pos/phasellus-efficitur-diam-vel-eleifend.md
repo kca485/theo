@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phasellus efficitur diam vel eleifend.
-category:
+tags:
   - ipsum
 ---
 Sed justo felis, cursus id odio at, pulvinar sodales risus. Vivamus venenatis metus vel lacus convallis cursus. Aliquam rhoncus vehicula nisl, a convallis velit viverra mattis. Cras congue ornare semper. Sed semper elit at ligula sollicitudin ultrices id ut nulla. Aliquam semper pellentesque eros id gravida. Vivamus pharetra mauris id neque finibus eleifend. Vestibulum suscipit porta urna, mollis vestibulum arcu fringilla a. Suspendisse blandit augue at sapien lobortis, molestie efficitur sapien lobortis. Mauris magna dui, commodo in nisi ac, consectetur gravida tortor. Fusce ac neque tincidunt, posuere lacus et, semper libero. Vestibulum rhoncus orci tincidunt, pellentesque ante a, varius enim. Nunc tempus dapibus rutrum. Aenean cursus eu urna quis vestibulum. In non magna gravida, ornare magna pharetra, interdum erat. Mauris sed justo ut sapien dignissim mattis.

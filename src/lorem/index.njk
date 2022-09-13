@@ -1,0 +1,10 @@
+---
+layout: "plain.njk"
+---
+<h2>Lorem</h2>
+
+<ol>
+{% for lorem in collections.lorem %}
+  <li><a href="{{ lorem.url }}">{{ lorem.data.title }}</a></li>
+{% endfor %}
+</ol>
