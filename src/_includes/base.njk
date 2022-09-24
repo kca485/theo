@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Situs</title>
   <link href="https://unpkg.com/@csstools/normalize.css" rel="stylesheet" />
+  <link href="/styles/base.css" rel="stylesheet" />
+  {% if style %}
+  <link href="/styles/{{ style }}.css" rel="stylesheet" />
+  {% endif %}
 </head>
 <body>
   <header>

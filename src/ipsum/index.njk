@@ -1,10 +1,5 @@
 ---
-layout: "plain.njk"
+layout: story-gallery
+title: Ipsum
+stories: ipsum
 ---
-<h2>Ipsum</h2>
-
-<ol>
-{% for ipsum in collections.ipsum %}
-  <li><a href="{{ ipsum.url }}">{{ ipsum.data.title }}</a></li>
-{% endfor %}
-</ol>
