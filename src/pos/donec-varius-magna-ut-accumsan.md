@@ -8,6 +8,8 @@ Duis eu purus purus. Nunc tincidunt eleifend scelerisque. Maecenas vulputate ips
 
 Cras velit massa, vehicula interdum urna ac, lacinia venenatis justo. Duis a mauris nisi. Phasellus vitae tortor eros. Fusce vel quam varius, varius sapien eu, mattis dolor. In venenatis porta velit id interdum. Aliquam mauris nisi, vehicula nec nibh at, sollicitudin porttitor sapien. Vivamus a justo urna. Proin consequat, diam a cursus aliquam, mi tortor ultricies ipsum, ac fermentum justo lacus nec risus. Nulla pharetra urna at lacus posuere, nec aliquet mauris ultricies. Vestibulum sit amet molestie tortor.
 
+![A black puppy](https://picsum.photos/id/237/300/200 "A black puppy")
+
 Curabitur molestie quam vitae neque accumsan malesuada. Praesent ultricies urna ac nisl venenatis, ornare placerat nibh aliquam. Aenean elementum magna ligula, vel placerat sem iaculis eu. Vivamus mollis ligula nec lectus pretium tincidunt. Quisque ac elit vel nulla pharetra consequat sit amet at lacus. Donec non pellentesque turpis. Pellentesque elementum maximus mi non bibendum. Curabitur iaculis elit ut tortor imperdiet varius. Vivamus vestibulum viverra diam nec tempor. Vestibulum luctus faucibus elit blandit ultricies. Curabitur ac lectus molestie ligula rutrum consectetur.
 
 Ut odio metus, aliquam vel mauris et, dignissim eleifend tortor. Sed et pellentesque dui, sed finibus nisi. Nunc sed feugiat ipsum. Nulla maximus, turpis ut semper lobortis, est turpis imperdiet lectus, ac tempus quam eros non velit. Nullam sollicitudin aliquet volutpat. Phasellus urna lacus, maximus efficitur ligula id, eleifend cursus massa. In ut facilisis neque, a ultricies nunc. Vivamus consectetur feugiat leo laoreet varius.
