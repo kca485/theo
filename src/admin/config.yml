@@ -13,6 +13,7 @@ collections:
     label: "Pos"
     folder: "src/pos"
     create: true
+    preview_path: "blog/{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
