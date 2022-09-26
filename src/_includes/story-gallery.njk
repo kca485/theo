@@ -10,7 +10,9 @@ style: story-gallery
       <a class="story" href="{{ story.url }}">
         <div>
           <p class="story-title">{{ story.data.title }}</p>
-          <time datetime="{{ story.date.toISOString() }}">{{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full' }) }}</time>
+          <time datetime="{{ story.date.toISOString() }}">
+            {{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
+          </time>
         </div>
       </a>
     </li>
