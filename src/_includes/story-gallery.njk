@@ -8,7 +8,10 @@ style: story-gallery
   {% for story in collections[stories] %}
     <li>
       <a class="story" href="{{ story.url }}">
-        <p class="story-title">{{ story.data.title }}</p>
+        <div>
+          <p class="story-title">{{ story.data.title }}</p>
+          <time datetime="{{ story.date.toISOString() }}">{{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full' }) }}</time>
+        </div>
       </a>
     </li>
   {% endfor %}

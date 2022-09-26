@@ -26,6 +26,7 @@ ol li {
 
 .story {
   color: black;
+  text-decoration: none;
 }
 
 .story-title {
