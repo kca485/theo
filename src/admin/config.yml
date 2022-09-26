@@ -16,7 +16,7 @@ collections:
     preview_path: "blog/{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Time", name: "date", widget: "datetime"}
+      - {label: "Time", name: "date", widget: "datetime", date_format: "DD/MM/YYY", time_format: "HH:mm"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "select", options: ["lorem", "ipsum"], multiple: true, min: 1}
