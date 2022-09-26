@@ -6,7 +6,11 @@ style: story-gallery
   <h2>{{title}}</h2>
   <ol>
   {% for story in collections[stories] %}
-    <li><a class="story-title" href="{{ story.url }}">{{ story.data.title }}</a></li>
+    <li>
+      <a class="story" href="{{ story.url }}">
+        <p class="story-title">{{ story.data.title }}</p>
+      </a>
+    </li>
   {% endfor %}
   </ol>
   {{ content | safe }}

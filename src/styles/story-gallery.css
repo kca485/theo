@@ -24,7 +24,10 @@ ol li {
   margin: 1em 0.5em 2em 0.5em;
 }
 
-.story-title {
+.story {
   color: black;
+}
+
+.story-title {
   font-size: 24px;
 }
