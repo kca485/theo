@@ -3,17 +3,15 @@ style: story-gallery
 ---
 {% extends "base.njk" %}
 {% block layout %}
-  <h2>{{title}}</h2>
+  <h2 id="page-title">{{title}}</h2>
   <ol>
   {% for story in collections[stories] | reverse %}
     <li>
-      <a class="story" href="{{ story.url }}">
-        <div>
-          <p class="story-title">{{ story.data.title }}</p>
-          <time datetime="{{ story.date.toISOString() }}">
-            {{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
-          </time>
-        </div>
+      <a class="story-link" href="{{ story.url }}">
+        <p class="story-title">{{ story.data.title }}</p>
+        <time datetime="{{ story.date.toISOString() }}">
+          {{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
+        </time>
       </a>
     </li>
   {% endfor %}

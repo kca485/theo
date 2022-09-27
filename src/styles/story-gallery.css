@@ -4,7 +4,7 @@ main {
   align-items: center;
 }
 
-h2 {
+#page-title {
   margin: 2em 0;
 }
 
@@ -24,11 +24,18 @@ ol li {
   margin: 1em 0.5em 2em 0.5em;
 }
 
-.story {
-  color: black;
+.story-link {
   text-decoration: none;
+  display: inline-block;
+  height: 100%;
+}
+
+.story-link:hover {
+  text-decoration: underline;
 }
 
 .story-title {
-  font-size: 24px;
+  font-size: 1.25em;
+  font-weight: bold;
+  color: var(--color-neutral);
 }
