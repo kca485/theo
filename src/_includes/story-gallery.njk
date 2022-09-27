@@ -6,6 +6,7 @@ style: story-gallery
   <h2 id="page-title">{{title}}</h2>
   <ol>
   {% for story in collections[stories] | reverse %}
+    {% if story.data.tags %}
     <li>
       <a class="story-link" href="{{ story.url }}">
         <p class="story-title">{{ story.data.title }}</p>
@@ -14,6 +15,7 @@ style: story-gallery
         </time>
       </a>
     </li>
+    {% endif %}
   {% endfor %}
   </ol>
   {{ content | safe }}

@@ -1,19 +1,7 @@
 ---
-layout: "plain.njk"
+layout: story-gallery
 permalink: "/"
+stories: all
 ---
-<h2>Beranda</h2>
-
-<script type="module" src="../scripts/beranda.js"></script>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on('init', function(user) {
-      if (!user) {
-        window.netlifyIdentity.on('login', function() {
-          document.location.href = '/admin/';
-        });
-      }
-    });
-  }
-</script>
+<script type="module" src="../scripts/beranda.js"></script>
