@@ -2,6 +2,7 @@
   --color-base: #f8f8f8;
   --color-neutral: #0b1b1e;
   --color-primary: #786534;
+  --color-accent: #ffe416;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -9,19 +10,28 @@
     --color-base: #0b1b1e;
     --color-neutral: #f8f8f8;
     --color-primary: #f3dfb4;
+   --color-accent: #770000;
   }
 }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   display: flex;
   flex-direction: column;
-  color: var(--color-primary);
+  align-items: center;
+  color: var(--color-neutral);
   background-color: var(--color-base);
+  margin: 0;
+  min-height: 100vh;
 }
 
 a {
   color: var(--color-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 a:visited {
@@ -29,20 +39,40 @@ a:visited {
 }
 
 #site-title {
+  color: var(--color-primary);
+  font-weight: normal;
   text-align: center;
 }
 
-#site-title a {
-  text-decoration: none;
-}
-
 nav ul {
-  padding: 0;
+  padding: 1em 0;
   list-style: none;
   display: flex;
   justify-content: center;
+  border-top: solid 1px var(--color-accent);
+  border-bottom: solid 1px var(--color-accent);
+  width: 90vw;
 }
 
-nav ul li {
+nav li {
   margin: 0 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+nav a {
+  color: var(--color-neutral);
+}
+
+nav a:visited {
+  color: var(--color-neutral);
+}
+
+main {
+  flex-grow: 1;
+}
+
+footer {
+  padding: 4em 0 1em 0;
+  color: var(--color-primary);
 }

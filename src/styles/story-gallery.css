@@ -5,7 +5,9 @@ main {
 }
 
 #page-title {
-  margin: 2em 0;
+  margin: 2em 0 3em 0;
+  color: var(--color-primary);
+  font-weight: normal;
 }
 
 ol {
@@ -16,26 +18,22 @@ ol {
   justify-content: space-around;
   flex-wrap: wrap;
   width: 100%;
-  max-width: 1200px;
+  max-width: 1000px;
 }
 
 ol li {
   width: 350px;
-  margin: 1em 0.5em 2em 0.5em;
+  margin: 2em;
 }
 
 .story-link {
-  text-decoration: none;
   display: inline-block;
   height: 100%;
-}
-
-.story-link:hover {
-  text-decoration: underline;
+  width: 100%;
 }
 
 .story-title {
-  font-size: 1.25em;
+  font-size: 1.5em;
   font-weight: bold;
   color: var(--color-neutral);
 }

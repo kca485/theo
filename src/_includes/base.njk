@@ -3,11 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Situs</title>
+
+  {% if title %}
+    <title>{{ title }} - Situs</title>
+  {% else %}
+    <title>Situs</title>
+  {% endif %}
+
   <link href="https://unpkg.com/@csstools/normalize.css" rel="stylesheet" />
   <link href="/styles/base.css" rel="stylesheet" />
+
   {% if style %}
-  <link href="/styles/{{ style }}.css" rel="stylesheet" />
+    <link href="/styles/{{ style }}.css" rel="stylesheet" />
   {% endif %}
 </head>
 <body>
@@ -24,5 +31,8 @@
     {% block layout %}
     {% endblock %}
   </main>
+  <footer>
+    <small>© 2022</small>
+  </footer>
 </body>
 </html>

@@ -16,7 +16,7 @@ main {
 
 #story-time {
   text-align: center;
-  margin-bottom: 4em;
+  margin-bottom: 6em;
   color: var(--color-primary);
 }
 
@@ -24,4 +24,9 @@ main {
   max-width: 80ch;
   margin: 0 auto;
   line-height: 2;
+  font-size: 1.25em;
+}
+
+#story-body p {
+  margin: 1.5em 0;
 }
