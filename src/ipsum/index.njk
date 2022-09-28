@@ -1,5 +1,11 @@
 ---
 layout: story-gallery
 title: Ipsum
-stories: ipsum
+pagination:
+  data: collections.ipsum
+  size: 12
+  reverse: true
+  alias: stories
+  generatePageOnEmptyData: true
+permalink: "/ipsum/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---

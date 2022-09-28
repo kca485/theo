@@ -1,5 +1,15 @@
 ---
 layout: story-gallery
 title: Lorem
-stories: lorem
+pagination:
+  data: collections.lorem
+  size: 12
+  reverse: true
+  alias: stories
+  generatePageOnEmptyData: true
+permalink: "/{% if pagination.pageNumber > 0 %}lorem/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
+{% if pagination.pageNumber === 0 %}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script type="module" src="../scripts/beranda.js"></script>
+{% endif %}

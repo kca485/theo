@@ -5,7 +5,7 @@ style: story-gallery
 {% block layout %}
   <h2 id="page-title">{{title}}</h2>
   <ol>
-  {% for story in collections[stories] | reverse %}
+  {% for story in stories %}
     {% if story.data.tags %}
     <li>
       <a class="story-link" href="{{ story.url }}">
