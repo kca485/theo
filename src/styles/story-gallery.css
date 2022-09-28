@@ -10,18 +10,15 @@ main {
   font-weight: normal;
 }
 
-ol {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+#stories {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
-  width: 100%;
+  width: 90%;
   max-width: 1000px;
 }
 
-ol li {
+.story {
   width: 350px;
   margin: 2em;
 }
@@ -35,5 +32,9 @@ ol li {
 .story-title {
   font-size: 1.5em;
   font-weight: bold;
+}
+
+.story-description {
   color: var(--color-neutral);
+  line-height: 1.5;
 }

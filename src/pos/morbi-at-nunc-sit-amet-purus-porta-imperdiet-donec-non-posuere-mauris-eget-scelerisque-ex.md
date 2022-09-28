@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2022-09-28T15:10:33.157Z
-title: Morbi at nunc sit amet purus porta imperdiet. Donec non posuere mauris,
-  eget scelerisque ex.
+title: Morbi at nunc sit amet purus porta imperdiet. Donec non posuere mauris, eget scelerisque ex.
+description: Curabitur ut interdum lorem. Sed aliquet eleifend purus, quis tincidunt turpis laoreet eget. Donec egestas dui nisl, quis pharetra est consectetur ac. Pellentesque sagittis metus sit amet eros tincidunt mattis. Cras mollis volutpat justo ut sagittis. Nulla non diam feugiat.
 tags:
   - ipsum
 ---

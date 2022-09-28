@@ -10,6 +10,12 @@
     <title>Situs</title>
   {% endif %}
 
+  {% if description %}
+    <meta name="description" content="{{ description }}">
+  {% else %}
+    <meta name="description" content="Lorem ipsum dolor sit amet.">
+  {% endif %}
+
   <link href="https://unpkg.com/@csstools/normalize.css" rel="stylesheet" />
   <link href="/styles/base.css" rel="stylesheet" />
 

@@ -3,13 +3,18 @@ style: post
 ---
 {% extends "base.njk" %}
 {% block layout %}
-  <h2 id="story-title">{{title}}</h2>
-  <p id="story-time">
-    <time  datetime="{{ date.toISOString() }}">
-      {{ date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
-    </time>
-  </p>
-  <div id="story-body">
-    {{ content | safe }}
-  </div>
+  <article>
+    <header id="story-header">
+      <h2 id="story-title">{{title}}</h2>
+      <p id="story-description">
+        {{ description }}
+      </p>
+      <time id="story-time" datetime="{{ date.toISOString() }}">
+          {{ date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
+      </time>
+    </header>
+    <div id="story-body">
+      {{ content | safe }}
+    </div>
+  </article>
 {% endblock %}

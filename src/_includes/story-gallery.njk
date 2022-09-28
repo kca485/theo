@@ -4,19 +4,20 @@ style: story-gallery
 {% extends "base.njk" %}
 {% block layout %}
   <h2 id="page-title">{{title}}</h2>
-  <ol>
-  {% for story in stories %}
-    {% if story.data.tags %}
-    <li>
-      <a class="story-link" href="{{ story.url }}">
-        <p class="story-title">{{ story.data.title }}</p>
-        <time datetime="{{ story.date.toISOString() }}">
-          {{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
-        </time>
-      </a>
-    </li>
-    {% endif %}
-  {% endfor %}
-  </ol>
+  <div id="stories">
+    {% for story in stories %}
+      {% if story.data.tags %}
+        <arcticle class="story">
+          <a class="story-link" href="{{ story.url }}">
+            <h3 class="story-title">{{ story.data.title }}</h3>
+            <p class="story-description">{{ story.data.description }}</p>
+            <time datetime="{{ story.date.toISOString() }}">
+              {{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
+            </time>
+          </a>
+        </arcticle>
+      {% endif %}
+    {% endfor %}
+  </div>
   {{ content | safe }}
 {% endblock %}
