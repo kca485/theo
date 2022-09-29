@@ -44,7 +44,7 @@ a:visited {
   text-align: center;
 }
 
-nav ul {
+#main-nav ul {
   padding: 1em 0;
   list-style: none;
   display: flex;
@@ -54,17 +54,17 @@ nav ul {
   width: 90vw;
 }
 
-nav li {
+#main-nav li {
   margin: 0 1em;
   font-style: italic;
   font-weight: bold;
 }
 
-nav a {
+#main-nav a {
   color: var(--color-neutral);
 }
 
-nav a:visited {
+#main-nav a:visited {
   color: var(--color-neutral);
 }
 
@@ -73,6 +73,6 @@ main {
 }
 
 footer {
-  padding: 4em 0 1em 0;
+  padding: 1em 0 1em 0;
   color: var(--color-primary);
 }

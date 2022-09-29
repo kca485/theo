@@ -3,10 +3,10 @@ style: story-gallery
 ---
 {% extends "base.njk" %}
 {% block layout %}
-  <h2 id="page-title">{{title}}</h2>
-  <div id="stories">
-    {% for story in stories %}
-      {% if story.data.tags %}
+  <main>
+    <h2 id="page-title">{{title}}</h2>
+    <div id="stories">
+      {% for story in stories %}
         <arcticle class="story">
           <a class="story-link" href="{{ story.url }}">
             <h3 class="story-title">{{ story.data.title }}</h3>
@@ -16,8 +16,22 @@ style: story-gallery
             </time>
           </a>
         </arcticle>
-      {% endif %}
-    {% endfor %}
-  </div>
-  {{ content | safe }}
+      {% endfor %}
+    </div>
+  </main>
+  {% if pagination.href.previous or pagination.href.next %}
+    <nav id="pagination" aria-label="Paginasi">
+      <ul>
+        {% if pagination.href.previous %}
+          <li><a href="{{ pagination.href.previous }}" aria-label="Halaman sebelumnya"><span aria-hidden="true">&lt;&lt;</span>Sebelum</a></li>
+        {% endif %}
+
+        <li id="current-page-number" aria-label="Sekarang halaman {{ pagination.pageNumber + 1 }}">Halaman {{ pagination.pageNumber + 1 }}</li>
+
+        {% if pagination.href.next %}
+          <li><a href="{{ pagination.href.next }}" aria-label="Halaman berikutnya">Berikut<span aria-hidden="true">&gt;&gt;</span></a></li>
+        {% endif %}
+      </ul>
+    </nav>
+  {% endif %}
 {% endblock %}

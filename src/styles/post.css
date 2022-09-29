@@ -10,12 +10,17 @@ main {
 
 #story-header {
   color: var(--color-primary);
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1.5;
 }
 
 #story-title {
   margin: 2em 0 1em 0;
   font-size: 2em;
+  max-width: 80ch;
+  text-align: center;
 }
 
 #story-time {
@@ -26,6 +31,7 @@ main {
 #story-description {
   margin-bottom: 3em;
   font-style: italic;
+  max-width: 80ch;
 }
 
 #story-body {
@@ -37,4 +43,9 @@ main {
 
 #story-body p {
   margin: 1.5em 0;
+}
+
+#story-body img {
+  display: block;
+  margin: auto;
 }
