@@ -8,4 +8,4 @@ tags:
 ---
 s﻿idoremi
 
-![Lo](images/uploads/tesla-logo-2003-2500x2500.png "SI")
+![Lo](/images/uploads/pxl_20220809_120746685.jpg "SI")
