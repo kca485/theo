@@ -6,6 +6,4 @@ description: LA
 tags:
   - lorem
 ---
-s﻿idoremi
-
-![Lo](/images/uploads/pxl_20220809_120746685.jpg "SI")
+s﻿idoremi [di sini](https://drive.google.com/drive/folders/1QOoapaL-HFyRvdeOBwf4p29DFRJUwS0Y?usp=sharing)
