@@ -3,7 +3,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/styles');
   eleventyConfig.addPassthroughCopy('src/admin');
   eleventyConfig.addPassthroughCopy('src/images');
-  eleventyConfig.addPassthroughCopy('src/pass-through');
+  eleventyConfig.addPassthroughCopy({ 'src/pass-through/': '/' });
 
   return {
     dir: {
