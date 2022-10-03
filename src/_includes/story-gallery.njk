@@ -20,16 +20,16 @@ style: story-gallery
     </div>
   </main>
   {% if pagination.href.previous or pagination.href.next %}
-    <nav id="pagination" aria-label="Paginasi">
+    <nav id="pagination" aria-label="Pagination">
       <ul>
         {% if pagination.href.previous %}
-          <li><a href="{{ pagination.href.previous }}" aria-label="Halaman sebelumnya"><span aria-hidden="true">&lt;&lt;</span>Sebelum</a></li>
+          <li><a href="{{ pagination.href.previous }}" aria-label="Previous page"><span aria-hidden="true">&lt;&lt;</span>Previous</a></li>
         {% endif %}
 
-        <li id="current-page-number" aria-label="Sekarang halaman {{ pagination.pageNumber + 1 }}">Halaman {{ pagination.pageNumber + 1 }}</li>
+        <li id="current-page-number" aria-label="Current page, page {{ pagination.pageNumber + 1 }}">Page {{ pagination.pageNumber + 1 }}</li>
 
         {% if pagination.href.next %}
-          <li><a href="{{ pagination.href.next }}" aria-label="Halaman berikutnya">Berikut<span aria-hidden="true">&gt;&gt;</span></a></li>
+          <li><a href="{{ pagination.href.next }}" aria-label="Next page">Next<span aria-hidden="true">&gt;&gt;</span></a></li>
         {% endif %}
       </ul>
     </nav>

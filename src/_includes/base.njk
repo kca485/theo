@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,11 +22,18 @@
   {% if style %}
     <link href="/styles/{{ style }}.css" rel="stylesheet" />
   {% endif %}
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 </head>
 <body>
   <header>
     <h1 id="site-title">Fusce Euismod Neque</h1>
-    <nav id="main-nav" aria-label="Navigasi utama">
+    <nav id="main-nav" aria-label="Main navigation">
       <ul>
         <li><a href="/">Lorem</a></li>
         <li><a href="/ipsum">Ipsum</a></li>
