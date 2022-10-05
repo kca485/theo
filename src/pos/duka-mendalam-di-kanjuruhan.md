@@ -10,7 +10,7 @@ tags:
 ---
 Federasi Sepak Bola (PSSI) Indonesia merilis pernyataan menyusul tragedi Kanjuruhan Malang Drama terjadi usai laga Arema FC vs Persebaya Surabaya berlangsung pada Sabtu malam (1 Oktober 2022).
 
- Sekjen PSSI Yunus Nussi dalam keterangannya mengatakan pihaknya telah menjalin komunikasi dengan FIFA terkait hal tersebut. Dia mengatakan PSSI terus melapor ke Federasi Sepak Bola Dunia.
+ Sekjen PSSI Yunus Nussi dalam [keterangannya ](https://www.liputan6.com/tekno/read/5087610/tragedi-kanjuruhan-malang-warganet-sorot-pssi-untuk-berbenah)mengatakan pihaknya telah menjalin komunikasi dengan FIFA terkait hal tersebut. Dia mengatakan PSSI terus melapor ke Federasi Sepak Bola Dunia.
 
 > "Tadi malam dan pagi ini (kami) terus berhubungan dengan FIFA Kami diberitahu bahwa ada insiden yang tidak biasa (setelah  Arema vs Persebaya di La Liga 1)," katanya dalam konferensi pers di  Madya Senayan. Stadion, Minggu (2/2) 10/2022).
 
@@ -18,7 +18,6 @@ Terlepas dari pernyataan resmi tersebut, perhatian publik terhadap PSSI terus me
  Dalam video yang diunggah, banyak warganet yang menuding PSSI harus berbenah pascatragedi Kanjuruhan. Last but not least, netizen menuntut agar Ketua Umum PSSI, Mochamad Iriawan, mengundurkan diri sebagai bentuk pertanggungjawaban.
 
 ![Bayern Munich Fans](/images/uploads/ferrzaluaaaremn.jpg "Solidaritas fans Bayern Munchen")
-
 
 Bahkan,  beberapa netizen secara terbuka meminta FIFA memberikan sanksi kepada PSSI setelah kejadian ini Oleh karena itu, kata kunci FIFA selalu masuk dalam daftar topik populer di Indonesia untuk kategori olahraga
 
