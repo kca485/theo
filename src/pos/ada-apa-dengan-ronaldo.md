@@ -18,6 +18,16 @@ Pergerakan bebas Ronaldo pun memicu lahirnya gol ke-3 Manchester United melalui 
 
 N﻿amun Omonia mampu menambah gol setelah memanfaatkan peluang yang didapatkan oleh Nikolas Panayiotou di menit 85.
 
+S﻿elama laga berlangsung, sebenarnya banyak sekali peluang yang mampu dimanfaatkan oleh Ronaldo. Namun sepertinya, dewi fortuna masih belum memberikan restunya!
+
+S﻿atu peluang yang cukup membuatnya frustasi adalah ketika Ronaldo mendapatkan umpan dari Dalot, namun tendangannya masih membentur tiang gawang yang akhirnya bola dapat diamankan oleh kiper dari Omonia.
+
+A﻿pes sekali ya....
+
+P﻿eluang selanjutnya adalah ketika sepakannya masih berjarak dengan posisi gawang yang akhirnya hanya menghasilkan shot on target saja, tanpa lahirnya gol.
+
+W﻿ajar jika kecewa, karena bisa saja jika pada pertandingan ini CR7 mencetak gol, maka akan menjadi gol ke-700 yang dicatatkan dalam sejarahnya mencetak gol bagi club.
+
 ![Expresi kekecewaan CR7](/images/uploads/feaezjiagae7-_t.jpg "Ronaldo")
 
 S﻿epertinya masih akan sangat dinantikan lahirnya gol dari kaki CR7 terlepas dari usianya yang kini sudah menginjak 37 tahun, namun fans CR7 sendiri yakin, bahwa masih ada harapan bagi 'GOAT' mereka untuk tampil cemerlang!
