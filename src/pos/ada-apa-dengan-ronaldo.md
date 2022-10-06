@@ -18,7 +18,7 @@ Pergerakan bebas Ronaldo pun memicu lahirnya gol ke-3 Manchester United melalui 
 
 N﻿amun Omonia mampu menambah gol setelah memanfaatkan peluang yang didapatkan oleh Nikolas Panayiotou di menit 85.
 
-![Expresi kekecewaan CR7](https://www.msn.com/en-us/sports/soccer/omonia-2-3-man-united-live-europa-league-result-match-stream-latest-reaction-and-updates-today/ar-AA12FCLR?fullscreen=true&cvid=bb7ee3838d604a58accf1d856c72f721#image=7 "Ronaldo")
+![Expresi kekecewaan CR7](/images/uploads/feaezjiagae7-_t.jpg "Ronaldo")
 
 S﻿epertinya masih akan sangat dinantikan lahirnya gol dari kaki CR7 terlepas dari usianya yang kini sudah menginjak 37 tahun, namun fans CR7 sendiri yakin, bahwa masih ada harapan bagi 'GOAT' mereka untuk tampil cemerlang!
 
