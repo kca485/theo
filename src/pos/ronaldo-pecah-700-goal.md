@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-10-09T20:12:44.898Z
-title: RONALDO PECAH! 700 GOAL!
+title: PECAH REKOR 700 GOAL RONALDO!
 description: REKOR BARU SEPAKBOLA DUNIA
 tags:
   - lorem
