@@ -9,8 +9,8 @@ public_folder: "/images/uploads"
 search: false
 
 collections:
-  - name: "pos"
-    label: "Pos"
+  - label: "Pos"
+    name: "pos"
     folder: "src/pos"
     create: true
     preview_path: "pos/{{slug}}"
@@ -21,3 +21,11 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"]}
       - {label: "Tags", name: "tags", widget: "hidden", default: "pos"}
+  - label: "Settings"
+    name: "settings"
+    files:
+      - label: "General"
+        name: "general"
+        file: "src/_data/settings.json"
+        fields:
+          - {label: "Site name", name: "sitename", widget: "string"}

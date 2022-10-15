@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   {% if title %}
-    <title>{{ title }} - Situs</title>
+    <title>{{ title }} - {{ settings.sitename }}</title>
   {% else %}
-    <title>Situs</title>
+    <title>{{ settings.sitename }}</title>
   {% endif %}
 
   {% if description %}
@@ -32,7 +32,7 @@
 </head>
 <body>
   <header {% if banner %}style="background-image: url("{{ banner }}"")"{% endif %}>
-    <h1 id="site-title">Fusce Euismod Neque</h1>
+    <h1 id="site-title">{{ settings.sitename }}</h1>
   </header>
     {% block layout %}
     {% endblock %}
