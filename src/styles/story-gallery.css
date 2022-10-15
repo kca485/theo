@@ -6,7 +6,7 @@ header {
 }
 
 #site-title {
-  background-color: #f8f8f8aa;
+  background-color: var(--color-base-semi);
   position: fixed;
   width: 100%;
 }

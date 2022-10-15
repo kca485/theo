@@ -1,5 +1,6 @@
 :root {
   --color-base: #f8f8f8;
+  --color-base-semi: #f8f8f8cc;
   --color-neutral: #0b1b1e;
   --color-primary: #786534;
   --color-accent: #ffe416;
@@ -8,9 +9,10 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --color-base: #0b1b1e;
+    --color-base-semi: #0b1b1ecc;
     --color-neutral: #f8f8f8;
     --color-primary: #f3dfb4;
-   --color-accent: #770000;
+    --color-accent: #770000;
   }
 }
 
