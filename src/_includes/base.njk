@@ -13,7 +13,7 @@
   {% if description %}
     <meta name="description" content="{{ description }}">
   {% else %}
-    <meta name="description" content="Lorem ipsum dolor sit amet.">
+    <meta name="description" content="{{ settings.description }}">
   {% endif %}
 
   <link href="https://unpkg.com/@csstools/normalize.css" rel="stylesheet" />
@@ -31,7 +31,7 @@
   <meta name="theme-color" content="#ffffff">
 </head>
 <body>
-  <header {% if banner %}style="background-image: url("{{ banner }}"")"{% endif %}>
+  <header {% if banner %}style="background-image: url('{{ settings.banner }}')"{% endif %}>
     <h1 id="site-title">{{ settings.sitename }}</h1>
   </header>
     {% block layout %}

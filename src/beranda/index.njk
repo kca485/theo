@@ -1,6 +1,5 @@
 ---
 layout: story-gallery
-title: Artikel
 description: Curabitur faucibus semper tortor, ac.
 pagination:
   data: collections.pos
@@ -9,6 +8,7 @@ pagination:
   alias: stories
   generatePageOnEmptyData: true
 permalink: "/{% if pagination.pageNumber > 0 %}lorem/{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+banner: true
 ---
 {% if pagination.pageNumber === 0 %}
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

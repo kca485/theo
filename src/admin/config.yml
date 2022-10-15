@@ -29,3 +29,5 @@ collections:
         file: "src/_data/settings.json"
         fields:
           - {label: "Site name", name: "sitename", widget: "string"}
+          - {label: "Site description", name: "description", widget: "string"}
+          - {label: "Banner", name: "banner", widget: "image", "allow_multiple": false}
