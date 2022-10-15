@@ -1,3 +1,16 @@
+header {
+  height: 65vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#site-title {
+  background-color: #f8f8f8aa;
+  position: fixed;
+  width: 100%;
+}
+
 main {
   display: flex;
   flex-direction: column;

@@ -4,7 +4,7 @@ date: 2022-10-09T20:12:44.898Z
 title: PECAH REKOR 700 GOAL RONALDO!
 description: REKOR BARU SEPAKBOLA DUNIA
 tags:
-  - lorem
+  - pos
 ---
 H﻿asil pertandingan malam ini antara MU vs Everton, berakhir dengan hasil 2-1 untuk kemenangan MU. Meskipun tertinggal lebih dulu lewat gol Alex Iwobi di menit ke-5, namun tak berselang lama, 10 menit kemudian, MU menyamakan kedudukan melalui sepakan kaki kiri Antony yang tak bisa dijangkau Pickford.
 

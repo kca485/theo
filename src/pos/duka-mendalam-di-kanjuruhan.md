@@ -6,7 +6,7 @@ description: Sepak Bola yang sejatinya adalah sebuah hiburan, menjadi petaka
   tatkala sebuah tragedi berdarah terjadi 01 Oktober 2022 lalu. Bagaimana sikap
   dari PSSI dan akankah ada sanksi FIFA pada Indonesia?
 tags:
-  - lorem
+  - pos
 ---
 Federasi Sepak Bola (PSSI) Indonesia merilis pernyataan menyusul tragedi Kanjuruhan Malang Drama terjadi usai laga Arema FC vs Persebaya Surabaya berlangsung pada Sabtu malam (1 Oktober 2022).
 

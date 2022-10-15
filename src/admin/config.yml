@@ -20,4 +20,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", buttons: ["bold", "italic", "code", "link", "heading-three", "heading-four", "heading-five", "heading-six", "quote", "bulleted-list", "numbered-list"]}
-      - {label: "Tags", name: "tags", widget: "select", options: ["lorem", "ipsum"], multiple: true, min: 1}
+      - {label: "Tags", name: "tags", widget: "hidden", default: "pos"}

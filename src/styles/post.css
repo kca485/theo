@@ -6,6 +6,7 @@ main {
   width: 90%;
   max-width: 1600;
   color: var(--color-neutral);
+  border-top: solid 1px var(--color-accent);
 }
 
 #story-header {

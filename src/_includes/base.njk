@@ -31,14 +31,8 @@
   <meta name="theme-color" content="#ffffff">
 </head>
 <body>
-  <header>
+  <header {% if banner %}style="background-image: url("{{ banner }}"")"{% endif %}>
     <h1 id="site-title">Fusce Euismod Neque</h1>
-    <nav id="main-nav" aria-label="Main navigation">
-      <ul>
-        <li><a href="/">Lorem</a></li>
-        <li><a href="/ipsum">Ipsum</a></li>
-      </ul>
-    </nav>
   </header>
     {% block layout %}
     {% endblock %}

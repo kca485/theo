@@ -4,7 +4,7 @@ date: 2022-10-06T19:05:24.456Z
 title: ADA APA DENGAN  RONALDO?
 description: Kesal, marah dan frustasi tampak di wajah CR7
 tags:
-  - ipsum
+  - pos
 ---
 M﻿alam ini, Manchester United bertandang ke markas tim Omonia Nicosia dalam perhelatannya di ajang Europa League. Meskipun diatas kertas Omonia merupakan tim yang tidak diunggulkan, tapi jangan salah sangka dulu! Teryata mereka mampu mencuri gol di menit 34 melalui Ansarifard. Manchester United pun tertinggal sampai berakhirnya babak-.1
 

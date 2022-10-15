@@ -4,8 +4,7 @@ date: 2022-10-05T13:21:06.595Z
 title: ADA HIKMAH DI BALIK DERBY MANCHESTER
 description: TERIMA KASIH PEP!
 tags:
-  - ipsum
-  - lorem
+  - pos
 ---
 Eric ten Hag berterima kasih kepada Pep Guardiola dan Manchester City atas 'pelajaran' yang dia ajarkan kepada Manchester United di Etihad, Minggu.
 

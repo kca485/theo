@@ -38,34 +38,16 @@ a:visited {
   color: var(--color-primary);
 }
 
+header {
+  width: 100%;
+}
+
 #site-title {
   color: var(--color-primary);
   font-weight: normal;
   text-align: center;
-}
-
-#main-nav ul {
+  margin: 0;
   padding: 1em 0;
-  list-style: none;
-  display: flex;
-  justify-content: center;
-  border-top: solid 1px var(--color-accent);
-  border-bottom: solid 1px var(--color-accent);
-  width: 90vw;
-}
-
-#main-nav li {
-  margin: 0 1em;
-  font-style: italic;
-  font-weight: bold;
-}
-
-#main-nav a {
-  color: var(--color-neutral);
-}
-
-#main-nav a:visited {
-  color: var(--color-neutral);
 }
 
 main {
