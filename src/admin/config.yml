@@ -13,7 +13,7 @@ collections:
     label: "Pos"
     folder: "src/pos"
     create: true
-    preview_path: "blog/{{slug}}"
+    preview_path: "pos/{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Time", name: "date", widget: "datetime", date_format: "DD/MM/YYY", time_format: "HH:mm"}
