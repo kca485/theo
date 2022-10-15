@@ -28,7 +28,7 @@ P﻿eluang selanjutnya adalah ketika sepakannya masih berjarak dengan posisi gaw
 
 W﻿ajar jika kecewa, karena bisa saja jika pada pertandingan ini CR7 mencetak gol, maka akan menjadi gol ke-700 yang dicatatkan dalam sejarahnya mencetak gol bagi club.
 
-![Expresi kekecewaan CR7](/images/uploads/feaezjiagae7-_t.jpg "Ronaldo")
+[![Expresi kekecewaan CR7](/images/uploads/feaezjiagae7-_t.jpg "Ronaldo")](https://www.google.com)
 
 S﻿epertinya masih akan sangat dinantikan lahirnya gol dari kaki CR7 terlepas dari usianya yang kini sudah menginjak 37 tahun, namun fans CR7 sendiri yakin, bahwa masih ada harapan bagi 'GOAT' mereka untuk tampil cemerlang!
 
