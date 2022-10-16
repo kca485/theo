@@ -55,3 +55,7 @@ main {
 article footer {
   max-width: 80ch;
 }
+
+#share-button {
+  margin-right: 1em;
+}
