@@ -40,6 +40,17 @@ a:visited {
   color: var(--color-primary);
 }
 
+button {
+  color: var(--color-primary);
+  background-color: var(--color-base);
+  border: solid 1px var(--color-primary);
+  padding: 0.5em 1em;
+}
+
+button:hover {
+  background-color: var(--color-accent);
+}
+
 header {
   width: 100%;
 }
