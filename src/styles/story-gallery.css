@@ -37,12 +37,6 @@ main {
   margin: 2em;
 }
 
-.story-link {
-  display: inline-block;
-  height: 100%;
-  width: 100%;
-}
-
 .story-title {
   font-size: 1.5em;
   font-weight: bold;
@@ -51,6 +45,10 @@ main {
 .story-description {
   color: var(--color-neutral);
   line-height: 1.5;
+}
+
+.story time {
+  color: var(--color-primary);
 }
 
 #pagination {

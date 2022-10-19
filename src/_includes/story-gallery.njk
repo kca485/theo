@@ -9,11 +9,11 @@ style: story-gallery
         <article class="story">
           <a class="story-link" href="{{ story.url }}">
             <h3 class="story-title">{{ story.data.title }}</h3>
+          </a>
             <p class="story-description">{{ story.data.description }}</p>
             <time datetime="{{ story.date.toISOString() }}">
               {{ story.date.toLocaleDateString('id-ID', { dateStyle: 'full', timeZone: 'Asia/Jakarta' }) }}
             </time>
-          </a>
         </article>
       {% endfor %}
     </div>
