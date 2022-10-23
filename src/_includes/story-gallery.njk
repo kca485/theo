@@ -8,7 +8,7 @@ style: story-gallery
       {% for story in stories %}
         <article class="story">
           <a class="story-link" href="{{ story.url }}">
-            <h3 class="story-title">{{ story.data.title }}</h3>
+            <h2 class="story-title">{{ story.data.title }}</h2>
           </a>
             <p class="story-description">{{ story.data.description }}</p>
             <time datetime="{{ story.date.toISOString() }}">
