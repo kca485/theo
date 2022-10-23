@@ -70,4 +70,12 @@ main {
 footer {
   padding: 1em 0 1em 0;
   color: var(--color-primary);
+  width: 90%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon-line {
+  fill: var(--color-primary)
 }
