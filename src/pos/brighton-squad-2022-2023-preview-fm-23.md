@@ -5,30 +5,30 @@ title: Brighton Squad 2022/2023 Preview FM 23
 description: What If We Have the wonderkids squad?
 tags: pos
 ---
-B﻿udget transfer yang besar, tentu identik dengan godaan belanja pemain yang menjanjikan dan penuh harapan. Tapi bagaimana jika kita berinvestasi untuk 5-10 tahun ke depan untuk pemain muda atau biasa kita sebut sebagai wonderkids?
+A large transfer budget, of course, is synonymous with the temptation of spending promising and hopeful players. But what if we invest for the next 5-10 years for young players or what we usually refer to as wonderkids?
 
 ![Seagull Profile](/images/uploads/profile-brighton.png "Brighton FM 23")
 
-D﻿engan budget transfer 70 juta apa yang bisa dibeli dan didapatkan?
+With a transfer budget of 70 million, what can be bought and obtained?
 
 ![Transfer In Brighton](/images/uploads/transfer-in-brighton.png "Transfer Market FM 23")
 
-P﻿emain-pemain itu semua dibeli dengan pertimbangan untuk perkuatan di beberapa lini utama yang tentunya berguna di musim musim berikutnya. 
+Those players were all bought with consideration for strengthening on some of the main lines which was certainly useful in the following season.
 
-D﻿engan penambahan target utama Matias Arezo di posisi striker, Amar Dedic pada posisi bek sayap yang berposisi di kanan dan kiri, ditambah dengan Dominik Szoboszlai sebagai playmaker dengan posisi natural di sayap kiri, bisa juga di posisi central midfielder.
+With the addition of Matias Arezo main target in the striker position, Amar Dedic in the full-back position on the right and left, coupled with Dominik Szoboszlai as a playmaker with a natural position on the left wing, it can also be in the central midfielder position.
 
 ![Striker](/images/uploads/matias-arezo.png "Matias Arezo")
 
-S﻿ejauh ini, striker berkebangsaan Uruguay ini sudah mampu beradaptasi dengan taktik Brighton yang memberikan peran sebagai pressing striker. Hampir di setiap pertandingan Arezo selalu mencetak gol bagi Brighton. Mengkoleksi total 11 gol di semua penampilannya sungguh impresive bukan?!
+So far, the Uruguayan striker has been able to adapt to Brighton's tactics that provide the role of a pressing striker. In almost every game Arezo always scored for Brighton. Collecting a total of 11 goals in all his appearances is really impresive isn't it?!
 
 ![Fullback right and left](/images/uploads/amar-dedic.png "Wonderkids Fullback")
 
-S﻿ementara itu, Amar Dedic yang masih berusia 20 tahun mulai memainkan peran krusialnya sebagai fullback yang mampu menyerang dan bertahan sekaligus. Selain membantu membangung serangan, dengan 3 assist-nya, Amar Dedic memberi kontribusi signifikan di setiap penampilannya!
+Meanwhile, 20-year-old Amar Dedic is starting to play his crucial role as a fullback capable of attacking and defending at the same time. In addition to helping build the attack, with his 3 assists, Amar Dedic made a significant contribution in each of his performances!
 
 ![Midfielder center](/images/uploads/dominik-szoboszlai.png "Dominik best Midfielder")
 
-U﻿rusan passing, chance creation, composure merupakan keahlian pemain berusia 22 tahun asal Hungaria ini. Dengan berbagai posisi mulai dari winger, dan center midfielder Dominik selalu mendominasi permainan di tengah dengan umpan ciamiknya, passing berakurasi tinggi, dan decision maker yang mungkin masih perlu perbaikan kedepannya.
+Passing, chance creation, composure is the skills of the 22-year-old Hungarian. With a variety of positions ranging from winger, and center midfielder Dominik has always dominated the game in the middle with his beautiful passes, high accuracy passing, and decision makers who may still need improvement going forward.
 
 ![Premier League](/images/uploads/competition-table.png "Table Competition")
 
-B﻿righton sementara ini berada pada posisi 3 Premier League dan semoga saja posisi ini akan bertahan sampai setidaknya di menjelang akhir musim 2022/2023.
+Brighton is currently in 3rd place in the Premier League and hopefully this position will last until at least towards the end of the 2022/2023 season.
