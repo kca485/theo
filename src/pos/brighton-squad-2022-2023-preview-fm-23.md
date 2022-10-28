@@ -29,4 +29,6 @@ S﻿ementara itu, Amar Dedic yang masih berusia 20 tahun mulai memainkan peran k
 
 U﻿rusan passing, chance creation, composure merupakan keahlian pemain berusia 22 tahun asal Hungaria ini. Dengan berbagai posisi mulai dari winger, dan center midfielder Dominik selalu mendominasi permainan di tengah dengan umpan ciamiknya, passing berakurasi tinggi, dan decision maker yang mungkin masih perlu perbaikan kedepannya.
 
+![Premier League](/images/uploads/competition-table.png "Table Competition")
+
 B﻿righton sementara ini berada pada posisi 3 Premier League dan semoga saja posisi ini akan bertahan sampai setidaknya di menjelang akhir musim 2022/2023.
