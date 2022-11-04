@@ -25,4 +25,6 @@ Chelsea coach Zinedine Zidane was unable to contain the embarrassment of the def
 
 Meanwhile, Szoboslai earned the title as Man of The Match in the fierce match. 
 
+![Dominik Szoboslai](/images/uploads/motm.png "Dominik Szoboslai")
+
 Check out the continuation of Brighton's journey in the 2022/2023 season in the next story!
