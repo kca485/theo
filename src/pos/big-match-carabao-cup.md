@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-11-04T19:44:51.380Z
-title: BIG MATCH CARABAO CUP!
+title: BIG WIN BRIGHTON VS CHELSEA
 description: What A BIG WIN!!!
 tags: pos
 ---
