@@ -23,7 +23,7 @@ Chelsea coach Zinedine Zidane was unable to contain the embarrassment of the def
 
 ![Zidane](/images/uploads/zidane.png "Zinedine Zidane")
 
-Meanwhile, Szoboslai earned the title as Man of The Match in the fierce match. 
+Meanwhile, [Szoboslai](https://www.tacticstrategi.com/pos/brighton-squad-2022-2023-preview-fm-23/) earned the title as Man of The Match in the fierce match. 
 
 ![Dominik Szoboslai](/images/uploads/motm.png "Dominik Szoboslai")
 
