@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2022-12-11T05:51:19.509Z
-title: What is The Best Tactic Formation on FM23?
-description: This is for attacking formation u should try!
+title: The Best Tactic Formation on FM23?
+description: you should read carefully!
 tags: pos
 ---
 It's difficult to say what the best attacking formation tactic is in Football Manager 23, as it largely depends on the players you have at your disposal and the style of play you prefer. That being said, there are a few tactics that have been known to be effective in previous versions of the game.
