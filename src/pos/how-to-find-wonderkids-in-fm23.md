@@ -2,7 +2,7 @@
 layout: post
 date: 2022-12-12T12:47:21.772Z
 title: HOW TO FIND WONDERKIDS IN FM23?
-description: write this post first!
+description: Must read this post first!
 tags: pos
 ---
 In FM23, finding wonderkids can be a great way to build a successful team for the future. These highly-rated young players have the potential to develop into world-class stars and lead your team to victory.
