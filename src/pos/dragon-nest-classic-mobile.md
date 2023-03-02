@@ -7,6 +7,8 @@ tags: pos
 ---
 S﻿iapa sih ga kenal game Dragon Nest?
 
+![](/images/uploads/wp3014324.webp "Dragon Nest Mobile")
+
 G﻿ame bergenre MMORPG dengan konten menarik dan gameplay sederhana namun membuat setiap pemainnya ketagihan dan lupa waktu!
 
 Sejarah Game Dragon Nest Dragon Nest merupakan salah satu mobile game yang dirilis oleh Nexon Corea Corporation pada tahun **2010 silam di Korea**. Dragon Nest termasuk ke dalam salah satu mobile game yang dikembangkan oleh Eyedentity Games.
@@ -17,4 +19,4 @@ N﻿amun teryata, banyak pemain game Dragon Nest mengeluhkan dengan adanya siste
 
 A﻿da kabar gembira bagi pecinta game ini, karena di akhir tahun 2022 beberapa komunitas Dragon Nest pun merilis kembali game ini berbasis mobile bagi android. Dari berbagai versi yang ada, Dragon Nest mobile Classic version adalah yang terbaik. Gameplay yang mirip dengan versi pc namun dipermudah dengan adanya fitur dungeon dan juga sistem raid yang memungkinkan interaksi antar pemain menjadi lebih gampang.
 
-B﻿agi yang ingin bermain silakan download apk-nya di sini.
+B﻿agi yang ingin bermain silakan download apk-nya [di sini](https://semawur.com/JcA3Wj5Y).
