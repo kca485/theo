@@ -40,6 +40,9 @@ Keberadaan beberapa pujangga (sang kawi) beserta hasil-hasil karya sastra puisi 
 
 Kemudian, penulisan karya sastra warisan dari Kerajaan Kaḍiri sebenarnya merupakan jati diri dari suatu wilayah yang kini dikenal dengan Kediri. Namun ke manakah para pujangga dari daerah Kediri saat ini?, dan di manakah karya-karya mereka dapat ditemukan?. Mungkinkah seorang pujangga dari masa kolonial yaitu Tan Khoen Swie (1883-1953) menjadi pujangga Kediri yang terakhir?. Oleh karena itu, sudah saatnya penulisan karya sastra di Daerah Kediri kembali ditradisikan, karena menulis beberapa karya sastra seperti puisi, syair, cerpen, cergam, prosa, dan novel tidak bisa dipaksakan. Namun harus ditradisikan, dalam arti para pujangga terutama akademisi dan sarjana Sastra Indonesia atau Jawa terutama dari Daerah Kediri, harus produktif menulis sastra untuk Daerah Kediri dan bukan hanya mempelajari karya-karya sastra lama. Sempatkanlah menjadi pujangga walau hanya dengan satu puisi atau karya sastra, dan berilah teladan bagi generasi penerus untuk mengembangkan kembali bibit-bibit para pujangga di Daerah Kediri. Kelihatannya cukup sulit, namun itulah sebuah upaya untuk mengembalikan jati diri Kediri sebagai “bhumi pujangga sejuta sastra”.
 
+P﻿enulis: A’ang Pambudi Nugroho, S.Pd, M.A.
+(Perkumpulan Ahli Epigrafi Indonesia \[PAEI] Komda D.I. Yogyakarta)
+
 **Daftar Pustaka**
 
 Atmodjo, S. 1985. Hari Jadi Kediri. Yogyakarta: Lembaga Javanologi.
