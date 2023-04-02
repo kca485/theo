@@ -22,6 +22,8 @@ Kakawin paling tua digubah oleh Mpu Kanwa dari masa pemerintahan Raja Airlangga 
 
 ![Foto 1.1: Naskah Lontar Kakawin Arjunawiwāha (Sumber foto: Perpusnas RI)](/images/uploads/picture1.jpg "Foto 1.1: Naskah Lontar Kakawin Arjunawiwāha (Sumber foto: Perpusnas RI)")
 
+Naskah Lontar Kakawin Arjunawiwāha (Sumber foto: Perpusnas RI)
+
  Selanjutnya, tradisi penulisan kakawin yang berkembang pada zaman Kerajaan Kaḍiri telah melahirkan beberapa tokoh-tokoh intelektual para kawi (pujangga) dengan hasil gubahannya dari masing-masing periode pemerintahan rajanya. Para kawi (pujangga) tersebut, antara lain: 
 
 1. Mpu Panuluh dan Mpu Sêdah dari masa pemerintahan Raja Jayabhaya (± 1135-1157 Masehi), dengan karyanya yaitu Kakawin Hariwangśa, Kakawin Bhāratayuddha, Kakawin Gaṭotkacaśraya, dan Kakawin Hariwangśa.
@@ -34,11 +36,8 @@ Misalnya, pengetahuan dalam Kakawin Bhāratayuddha menjelaskan terdapat perbandi
 
 Keberadaan beberapa pujangga (sang kawi) beserta hasil-hasil karya sastra puisi Jawa Kuno (kakawin) di atas, merupakan bukti-bukti tersalurkannya gagasan intelektual dalam bentuk karya tulis yang mengandung unsur keindahan (kalangwan), serta dapat dinikmati dalam nyanyian lantunan tembang-tembang kakawin. Berkembangnya penulisan karya sastra tersebut, pastinya juga diimbangi dengan berkembangnya pusat-pusat pendidikan keagamaan (maṇdala) yang di sekitar kawasan Bhumi Kaḍiri (Sedyawati dkk, 1991). Lokasi tersebut saat ini dapat kita ketahui pada goa-goa di Gunung Klotok-Kediri dan Gunung Budheg-Tulungagung, serta diperkirakan beberapa pertapaan di Gunung Kelud (Kampud) dan Kawi.
 
-
-
 **Warisan Budaya Intelektual Kerajaan Kaḍiri Harus Tetap Dilestarikan**
 
-	Berdasarkan pembahasan di atas, dapat diketahui bahwa nenek moyang atau leluhur masyarakat daerah Kediri dan sekitarnya, merupakan orang-orang yang cerdas berintelektual tinggi. Warisan budaya intelektual dengan berpegang teguh pada pengetahuan dan kebijaksanaan harus tetap dilestarikan, yaitu dengan tetap menciptakan orang-orang cerdas berintelektual serta menjaga Daerah Kediri dan sekitarnya sebagai pusat aktivitas pengajaran serta penulisan literasi pengetahuan dan kebijaksanaan. Daerah Kediri juga harus kembali menjadi pusat pelatihan dan pembelajaran para tokoh intelektual, seperti calon raja-raja Singhasari sampai Majapahit sebelum memimpin kerajaan pusat, dilatih terlebih dahulu di Kaḍiri atau Daha. Hal ini juga pernah dialami oleh Gajah Mada selama dua tahun menjadi patih di Daha, sebelum menjabat menjadi Patih Amangkubhumi di Kerajaan Majapahit (Penjelasan Drs. Dwi Cahyono, M.Hum di perkuliahan tahun 2010). Keberadaan Kampung Inggris sangat mendukung pelestarian warisan budaya intelektual, di samping nantinya juga terdapat pusat-pusat pendidikan lainnya di Daerah Kediri. Selanjutnya, konsep konsolidasi warisan budaya dapat diterapkan dalam mendukung program Pemajuan Kebudayaan Nasional.
 Kemudian, penulisan karya sastra warisan dari Kerajaan Kaḍiri sebenarnya merupakan jati diri dari suatu wilayah yang kini dikenal dengan Kediri. Namun ke manakah para pujangga dari daerah Kediri saat ini?, dan di manakah karya-karya mereka dapat ditemukan?. Mungkinkah seorang pujangga dari masa kolonial yaitu Tan Khoen Swie (1883-1953) menjadi pujangga Kediri yang terakhir?. Oleh karena itu, sudah saatnya penulisan karya sastra di Daerah Kediri kembali ditradisikan, karena menulis beberapa karya sastra seperti puisi, syair, cerpen, cergam, prosa, dan novel tidak bisa dipaksakan. Namun harus ditradisikan, dalam arti para pujangga terutama akademisi dan sarjana Sastra Indonesia atau Jawa terutama dari Daerah Kediri, harus produktif menulis sastra untuk Daerah Kediri dan bukan hanya mempelajari karya-karya sastra lama. Sempatkanlah menjadi pujangga walau hanya dengan satu puisi atau karya sastra, dan berilah teladan bagi generasi penerus untuk mengembangkan kembali bibit-bibit para pujangga di Daerah Kediri. Kelihatannya cukup sulit, namun itulah sebuah upaya untuk mengembalikan jati diri Kediri sebagai “bhumi pujangga sejuta sastra”.
 
 **Daftar Pustaka**
