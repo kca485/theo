@@ -7,7 +7,7 @@ tags: pos
 ---
 Apakah Anda ingin belajar Bahasa Inggris dan Bahasa Jepang dengan mudah, cepat, dan menyenangkan? Apakah Anda ingin meningkatkan kemampuan berkomunikasi, menulis, dan membaca Anda dalam bahasa asing? Apakah Anda ingin memperluas wawasan dan peluang Anda di dunia global?
 
-![KURSUS ONLINE BAHASA INGGRIS DAN BAHASA JEPANG](/images/uploads/beige-simple-japanese-language-course-class-promotion-flyer.png "EJL COURSE PRICE LIST")
+![KURSUS ONLINE BAHASA INGGRIS DAN BAHASA JEPANG](/images/uploads/japanese-language-course-class-promotion-flyer.png "EJL COURSE PRICE LIST")
 
 Jika jawaban Anda adalah ya, maka Anda perlu mencoba kursus online Bahasa Inggris dan Bahasa Jepang dari **EJL COURS**E. **EJL COURS**E adalah platform belajar bahasa online yang menawarkan berbagai pilihan materi, metode, dan guru yang sesuai dengan kebutuhan dan minat Anda.
 
