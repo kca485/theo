@@ -7,6 +7,8 @@ tags: pos
 ---
 Pilihan Kelas Bahasa Jepang dan Bahasa Inggris Terbaik Bersama EJL COURSE
 
+![](/images/uploads/chris-montgomery-smgtvepind4-unsplash.jpg "ONLINE CLASS EJL COURSE")
+
 Hai, peminat bahasa Jepang dan bahasa Inggris yang penuh semangat! Apakah kamu sedang mencari tempat belajar bahasa yang terbaik dan menyenangkan? Jika iya, EJL COURSE adalah jawabannya! Dengan berbagai pilihan kelas yang menarik, EJL COURSE siap membawamu meraih kemahiran bahasa impianmu dengan cara yang seru dan efektif. Berikut adalah beberapa pilihan kelas unggulan yang ditawarkan:
 
 1. Kelas Reguler: Jika kamu ingin mempelajari bahasa Jepang dan bahasa Inggris dengan santai, kelas reguler adalah pilihan terbaik. Dalam kelas ini, kamu akan diajak mengeksplorasi tata bahasa, kosa kata, dan konversasi sehari-hari secara berangsur-angsur. Kamu akan merasa lebih percaya diri dalam berbicara dan menulis dalam bahasa targetmu.
