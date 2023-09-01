@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-09-01T05:27:59.510Z
-title: KELAS BARU UDA DIBUKA!
+title: KELAS BARU SUDAH DIBUKA!
 description: SEPTEMBER CERIA BERSAMA EJL COURSE
 tags: pos
 ---
